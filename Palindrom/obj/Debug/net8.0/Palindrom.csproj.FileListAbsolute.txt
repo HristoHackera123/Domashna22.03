@@ -12,3 +12,4 @@ C:\Users\encho\source\repos\NovaDomashna\Palindrom\obj\Debug\net8.0\refint\Palin
 C:\Users\encho\source\repos\NovaDomashna\Palindrom\obj\Debug\net8.0\Palindrom.pdb
 C:\Users\encho\source\repos\NovaDomashna\Palindrom\obj\Debug\net8.0\Palindrom.genruntimeconfig.cache
 C:\Users\encho\source\repos\NovaDomashna\Palindrom\obj\Debug\net8.0\ref\Palindrom.dll
+C:\Users\encho\source\repos\NovaDomashna\Palindrom\obj\Debug\net8.0\Palindrom.sourcelink.json

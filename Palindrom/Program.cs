@@ -11,7 +11,7 @@
         static bool CheckPalindrom (string palindrom)
         {
             bool result = true;
-            for (int i = 0; i < palindrom.Length; i++)
+            for (int i = 0; i < palindrom.Length/2; i++)
             {
                 if (palindrom[i] != palindrom[palindrom.Length - 1 - i])
                 {
