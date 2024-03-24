@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\NovaDomashna\Reversing\bin\Debug\net8.0\Reversing.exe
+C:\Users\encho\source\repos\NovaDomashna\Reversing\bin\Debug\net8.0\Reversing.deps.json
+C:\Users\encho\source\repos\NovaDomashna\Reversing\bin\Debug\net8.0\Reversing.runtimeconfig.json
+C:\Users\encho\source\repos\NovaDomashna\Reversing\bin\Debug\net8.0\Reversing.dll
+C:\Users\encho\source\repos\NovaDomashna\Reversing\bin\Debug\net8.0\Reversing.pdb
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.AssemblyInfo.cs
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.dll
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\refint\Reversing.dll
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.pdb
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\Reversing.genruntimeconfig.cache
+C:\Users\encho\source\repos\NovaDomashna\Reversing\obj\Debug\net8.0\ref\Reversing.dll

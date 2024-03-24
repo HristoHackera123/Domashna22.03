@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\NovaDomashna\Unicode\bin\Debug\net8.0\Unicode.exe
+C:\Users\encho\source\repos\NovaDomashna\Unicode\bin\Debug\net8.0\Unicode.deps.json
+C:\Users\encho\source\repos\NovaDomashna\Unicode\bin\Debug\net8.0\Unicode.runtimeconfig.json
+C:\Users\encho\source\repos\NovaDomashna\Unicode\bin\Debug\net8.0\Unicode.dll
+C:\Users\encho\source\repos\NovaDomashna\Unicode\bin\Debug\net8.0\Unicode.pdb
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.AssemblyInfo.cs
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.dll
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\refint\Unicode.dll
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.pdb
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\Unicode.genruntimeconfig.cache
+C:\Users\encho\source\repos\NovaDomashna\Unicode\obj\Debug\net8.0\ref\Unicode.dll

@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\bin\Debug\net8.0\MultiplyingASCII.exe
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\bin\Debug\net8.0\MultiplyingASCII.deps.json
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\bin\Debug\net8.0\MultiplyingASCII.runtimeconfig.json
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\bin\Debug\net8.0\MultiplyingASCII.dll
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\bin\Debug\net8.0\MultiplyingASCII.pdb
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.AssemblyInfo.cs
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.dll
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\refint\MultiplyingASCII.dll
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.pdb
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\MultiplyingASCII.genruntimeconfig.cache
+C:\Users\encho\source\repos\NovaDomashna\MultiplyingASCII\obj\Debug\net8.0\ref\MultiplyingASCII.dll
